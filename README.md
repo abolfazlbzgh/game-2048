@@ -16,12 +16,23 @@ A 2048 game implemented in React with Tailwind CSS. This project demonstrates th
 ## Table of Contents
 
 - [Installation](#installation)
+- [Features](#Features)
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Features
+
+- **Adaptive Interface**: Fully responsive design for both desktop and mobile devices.
+- **Real-Time Score Updates**: Dynamic updates to the current score and persistent high score.
+- **Fluid Animations**: Smooth tile merging animations enhance the gaming experience.
+- **Undo and Restart Functions**: Undo your last move or restart the game at any point.
+- **End Game Alerts**: Modals display your score when the game ends or when you win.
+- **Vibrant Tile Colors**: Tailwind CSS provides a visually appealing color scheme for tiles.
+
 
 ## Installation
 
