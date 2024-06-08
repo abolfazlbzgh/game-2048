@@ -2,6 +2,12 @@
 
 A 2048 game implemented in React with Tailwind CSS. This project demonstrates the use of React for game logic and Tailwind CSS for styling. Additionally, swipe gestures are supported for mobile devices using the `react-swipeable` library.
 
+## Screenshots
+
+!["mobile"](./screenshot-mobile.png)
+
+!["browser"](./screenshot-browser.png)
+
 ## Video
 
 [Video](https://github.com/abolfazlbzgh/game-2048/raw/main/video.mp4)
