@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="105" viewBox="0 0 105 105">
+  <g id="Group_1" data-name="Group 1" transform="translate(-1044 -260)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(1044 260)" fill="#3B82F6" stroke="#3B82F6" stroke-width="1">
+      <rect width="105" height="105" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="104" height="104" rx="19.5" fill="none"/>
+    </g>
+    <text id="_2048" data-name="2048" transform="translate(1097 328)" fill="#fff" font-size="36" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-41.414" y="0">2048</tspan></text>
+  </g>
+</svg>
