@@ -4,7 +4,7 @@ A 2048 game implemented in React with Tailwind CSS. This project demonstrates th
 
 ## Video
 
-[![Watch the video](screenshot-browser.png)](video.mp4)
+[![Watch the video](screenshot-browser.png)](https://github.com/abolfazlbzgh/game-2048/raw/main/video.mp4)
 
 
 ## Table of Contents
