@@ -68,7 +68,7 @@ export default function Game() {
 
     useEffect(() => {
         if (checkWin() && !showWinModal) {
-            setGameWon(true);
+            setHasWon(true);
             setShowWinModal(true);
         }
     }, [board, showWinModal]);
